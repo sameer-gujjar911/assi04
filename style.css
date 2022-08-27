@@ -1,0 +1,212 @@
+.p1-a{
+    font-family: 'Joan', serif;
+    font-weight: bold;
+    text-align: center;
+}
+.p2-a{
+    text-align: center;
+}
+.img-div{
+    
+    width: 100%;
+    height: auto;
+    background-color: red;
+}
+/* .col-sm-12{
+    padding: 0px;
+    margin: 0px;
+}
+.col-sm-11{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-10{    
+    padding: 0px;
+    margin: 0px;
+}.col-sm-9{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-8{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-7{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-6{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-5{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-4{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-3{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-2{
+    padding: 0px;
+    margin: 0px;
+}.col-sm-1{
+    padding: 0px;
+    margin: 0px;
+} */
+.p1-c{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.img2-c{
+    margin-left: 45px
+}
+/* .img3-c{
+
+} */
+.links{
+    border: 1px solid;
+    width: 140px;
+
+
+}
+.p3-f,.p4-f,.p5-f{
+    margin-top: 40px;
+}
+ul{
+    margin-left: 0px;
+    padding-left: 20px;
+}
+.links-f    {
+    display: flex;
+    margin-top:40px ;
+}
+.links01-f{
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    width: 500px;
+    padding-top: 10px;
+}
+.links-img{
+    width: 20px;
+    height: 20px;
+}
+ /* there is start session G  */
+.img-2-g{
+    display: flex;
+
+}
+.img-eye-g{
+    height: 64px;
+    width: 82px;
+    margin-left: 46%;
+    position: absolute;
+}
+.img-line-g{
+    size: 2px;
+    margin-top:30px ;
+    background-color: black;
+}
+      /* there is the part H  */
+.h1-h{
+    margin-top: 80px;
+}
+.p1-h{
+    margin: 10px 35px;
+    text-align: center;
+}
+/* .div-img-h{ */
+    /* margin: 20px; */
+/* } */
+.imgs-h{
+    align-items: center;
+}
+/* tere is start part i  */
+.box-i{
+    border-top: 6px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    padding-top: 30px;
+    margin-top: 70px;
+    /* align-items: center; */
+}
+.signup-btn{
+    color: white;
+    background-color: black;
+    margin-left: 0px;
+    padding: 5px 20px;
+}
+.signup-i{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+            /* there is start session last  */
+.links-last{
+    display: flex;
+    justify-content: space-around;
+}
+.links-last a{
+    color: white;
+    margin-top: 30px;
+    text-decoration: underline;
+
+}
+.h1-last{
+    text-align: center;
+    color: white;
+    margin-top:100px ;
+}
+.p1-last{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+.p2-last{
+    /* width: 178px; */
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.nav-link{
+    height: 75px;
+    /* background-color: red; */
+    padding-top: 25px;
+}
+nav ul li a:hover{
+    border-bottom: 2px solid black;
+}
+nav ul li{
+    margin-left: 20px;
+}
+@media (min-width:500px){
+    .navi{
+        font-family: 'Cinzel', serif;
+        text-transform: uppercase;font-size: 37px;
+        padding-left: 40px;
+    }
+}
+@media (max-width:500px) and (min-width:300px){
+    .navi{
+        font-family: 'Cinzel', serif;
+        text-transform: uppercase;font-size: 37px;
+        
+
+    }
+}
+@media(max-width:500px){
+    .email-in{
+        margin-right: 0px; 
+        padding-right: 0px;
+        height: 40px;
+        size: 30px;
+    }
+}
+@media(min-width:500px){
+    .email-in{
+        margin-right: 0px; 
+        padding-right: 0px;
+        margin-left: 50px;
+        height: 40px;
+        size: 30px;
+    }
+}
+
